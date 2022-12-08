@@ -1,3 +1,3 @@
 # OdinProject
 The Odin Project Repo
-Hello!
+Hello world!
